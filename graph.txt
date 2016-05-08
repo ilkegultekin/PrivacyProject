@@ -1,0 +1,27 @@
+10 16
+Alice
+Bob
+Tyrion
+Jaime
+Cersei
+Ned
+Catelyn
+Dany
+Arya
+Jon
+Alice Tyrion 1 Friend
+Alice Jaime 2 Colleague
+Alice Cersei 3 Manager
+Alice Ned 4 Friend
+Alice Catelyn 5 Family
+Alice Dany 3 Colleague
+Alice Arya 3 Friend
+Alice Jon 4 Family
+Bob Jon 3 Friend
+Bob Arya 2 Family
+Bob Dany 5 Colleague
+Bob Catelyn 4 Manager
+Bob Ned 5 Friend
+Bob Cersei 1 Friend
+Bob Jaime 4 Colleague
+Bob Tyrion 3 Family

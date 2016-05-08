@@ -1,0 +1,7 @@
+10.05.2016
+looking for a job in Paris
+job search
+Alice
+{'Dany': {'Bob': 1, 'Alice': 1}, 'Ned': {'Bob': 1, 'Alice': 1}, 'Cersei': {'Bob': 0, 'Alice': 0}, 'Jaime': {'Bob': 1, 'Alice': 0}, 'Catelyn': {'Bob': 1, 'Alice': 1}, 'Tyrion': {'Bob': 1, 'Alice': 0}, 'Arya': {'Bob': 1, 'Alice': 1}, 'Jon': {'Bob': 1, 'Alice': 1}}
+['Tyrion', 'Jaime']
+{'Jaime': 0, 'Tyrion': 0}

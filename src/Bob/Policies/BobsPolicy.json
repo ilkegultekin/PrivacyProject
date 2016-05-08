@@ -1,0 +1,26 @@
+{
+  "owner": "Bob", 
+  "excptList": [
+    "Dany"
+  ], 
+  "tstList": [
+    [
+      "Family", 
+      "2"
+    ], 
+    [
+      "Friend", 
+      "1"
+    ], 
+    [
+      "Colleague", 
+      "5"
+    ], 
+    [
+      "Manager", 
+      "4"
+    ]
+  ], 
+  "context": "office gossip", 
+  "polId": "BobsPolicy"
+}
